@@ -1,6 +1,7 @@
-body {
+ae-gridbody {
   line-height: 1.5;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
+  align-content: center;
 }
 
 a,
