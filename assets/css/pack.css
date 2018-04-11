@@ -2597,7 +2597,7 @@ html {
 body {
   background-color: #fff;
   color: #444;
-  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'IBM Plex Mono', monospace;
   font-size: .75rem;
   line-height: 1.5;
 }
@@ -2657,7 +2657,7 @@ em {
 
 b,
 strong {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 hr {
@@ -2697,7 +2697,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: 'IBM Plex Mono', monospace;
 }
 
 code {
@@ -2783,7 +2783,7 @@ pre code {
 }
 
 .ae-u-bolder {
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .ae-u-boldest {
